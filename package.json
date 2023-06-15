@@ -1,16 +1,16 @@
 {
-  "homepage": "https://cesarpizarra.github.io/url-shortening-api-master/",
   "name": "url-shortening-api-master",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://cesarpizarra/url-shortening-api-master/",
   "scripts": {
     "dev": "vite",
-    "predeploy": "npm run build",
     "build": "vite build",
-    "deploy": "gh-pages -d build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "react": "^18.2.0",
