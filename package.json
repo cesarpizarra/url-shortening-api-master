@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://cesarpizarra/url-shortening-api-master/",
+  "homepage": "https://your-username.github.io/your-repository/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
