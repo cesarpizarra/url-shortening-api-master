@@ -5,6 +5,8 @@ import {
   FaPinterest,
   FaInstagram,
 } from "react-icons/fa";
+
+// Social links
 const socialLinks = [
   { icon: <FaFacebook size={30} /> },
   { icon: <FaTwitter size={30} /> },
