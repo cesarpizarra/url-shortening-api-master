@@ -43,7 +43,4 @@ The challenge is to create a responsive layout for the URL-Shortening API landin
 - [Vite Documentation](https://vitejs.dev/)
 - [Tailwind CSS Documentation](https://tailwindcss.com/)
 
-## Future Improvements
-
-[Add any ideas or plans you have for improving the solution in the future]
 
