@@ -3,7 +3,7 @@ import ImageMain from "../assets/illustration-working.svg";
 const Hero = () => {
   return (
     <div className="w-full min-h-screen">
-      <div className="max-w-[1200px] px-8 mx-auto flex flex-col gap-4 justify-center h-screen">
+      <div className="max-w-[1200px] px-4 mx-auto flex flex-col gap-4 justify-center h-screen">
         {/* divide 2 grids */}
         <div className="grid md:grid-cols-2">
           {/* For left side */}

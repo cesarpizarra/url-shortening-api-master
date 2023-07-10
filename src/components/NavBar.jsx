@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { navLinks, form } from "../api/api";
 import { BiMenu } from "react-icons/bi";
 import { FaTimes } from "react-icons/fa";
-import Logo from '../assets/logo.svg'
+import Logo from "../assets/logo.svg";
 const NavBar = () => {
   const [nav, setNav] = useState(false);
 
@@ -11,7 +11,7 @@ const NavBar = () => {
   };
 
   return (
-    <div className="max-w-[1200px] mx-auto px-8">
+    <div className="max-w-[1200px] mx-auto px-4">
       <div className="w-full flex items-center justify-between py-4">
         <ul className="flex items-center">
           <img src={Logo} alt="Logo" className="mr-2 mt-2" />

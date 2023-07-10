@@ -5,7 +5,7 @@ import FullyCustomized from "../assets/icon-fully-customizable.svg";
 const Statistics = () => {
   return (
     <div className="w-full min-h-screen">
-      <div className="max-w-[1200px] px-8 mx-auto h-screen">
+      <div className="max-w-[1200px] px-4 mx-auto h-screen">
         <div className="flex items-center justify-center flex-col">
           <h3 className="text-[#1a0f26] text-3xl md:text-4xl font-bold">
             Advanced Statistics
